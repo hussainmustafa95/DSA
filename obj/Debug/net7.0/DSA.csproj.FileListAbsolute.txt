@@ -1,0 +1,15 @@
+C:\Users\Hussain.Mustafa\source\repos\DSA\bin\Debug\net7.0\DSA.exe
+C:\Users\Hussain.Mustafa\source\repos\DSA\bin\Debug\net7.0\DSA.deps.json
+C:\Users\Hussain.Mustafa\source\repos\DSA\bin\Debug\net7.0\DSA.runtimeconfig.json
+C:\Users\Hussain.Mustafa\source\repos\DSA\bin\Debug\net7.0\DSA.dll
+C:\Users\Hussain.Mustafa\source\repos\DSA\bin\Debug\net7.0\DSA.pdb
+C:\Users\Hussain.Mustafa\source\repos\DSA\obj\Debug\net7.0\DSA.csproj.AssemblyReference.cache
+C:\Users\Hussain.Mustafa\source\repos\DSA\obj\Debug\net7.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hussain.Mustafa\source\repos\DSA\obj\Debug\net7.0\DSA.AssemblyInfoInputs.cache
+C:\Users\Hussain.Mustafa\source\repos\DSA\obj\Debug\net7.0\DSA.AssemblyInfo.cs
+C:\Users\Hussain.Mustafa\source\repos\DSA\obj\Debug\net7.0\DSA.csproj.CoreCompileInputs.cache
+C:\Users\Hussain.Mustafa\source\repos\DSA\obj\Debug\net7.0\DSA.dll
+C:\Users\Hussain.Mustafa\source\repos\DSA\obj\Debug\net7.0\refint\DSA.dll
+C:\Users\Hussain.Mustafa\source\repos\DSA\obj\Debug\net7.0\DSA.pdb
+C:\Users\Hussain.Mustafa\source\repos\DSA\obj\Debug\net7.0\DSA.genruntimeconfig.cache
+C:\Users\Hussain.Mustafa\source\repos\DSA\obj\Debug\net7.0\ref\DSA.dll
